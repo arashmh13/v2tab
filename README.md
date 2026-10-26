@@ -36,9 +36,9 @@ By multiplexing outbound traffic across multiple functional configs simultaneous
 
 ## 📦 Download APK
 
-Pre-built APKs:
-- **Universal Release APK**: `v2tab.apk` (Release build, signed and optimized)
-- **Debug APK**: `app-debug.apk`
+Direct download from GitHub Releases:
+- **[Download V2Tab Release APK (`v2tab.apk`)](https://github.com/arashmh13/v2tab/releases/download/v1.0.0/v2tab.apk)** — *65.5 MB (Optimized release build, signed & ready to install)*
+- **[Download V2Tab Debug APK (`v2tab-debug.apk`)](https://github.com/arashmh13/v2tab/releases/download/v1.0.0/v2tab-debug.apk)** — *77.2 MB (Debug build with verbose logs)*
 
 ---
 

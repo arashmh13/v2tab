@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">V2Tab</string>
+    <string name="app_author">By Dr. Arash</string>
+    <string name="app_author_credit">By Dr. Arash</string>
+    <string name="nav_main">Main</string>
+    <string name="nav_logs">Logs</string>
+    <string name="vpn_service_label">V2Tab Intelligent Multi-Node Tunnel</string>
+    <string name="connect_action">Connect</string>
+    <string name="disconnect_action">Connected</string>
+    <string name="subscription_url_label">Subscription URL</string>
+    <string name="subscription_url_placeholder">Paste subscription link here…</string>
+    <string name="refresh_subscription">Refresh Subscription</string>
+    <string name="clear_logs">Clear Logs</string>
+</resources>

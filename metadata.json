@@ -1,0 +1,6 @@
+{
+  "name": "V2Tab",
+  "description": "Simple, intelligent multi-node proxy client by Dr. Arash with automatic subscription setup, dynamic weighted load balancing, and automatic failover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
